@@ -19,7 +19,7 @@
 
 # Installation
 
-In the Release folder, you can find the file `com.elgato.numberdisplay.streamDeckPlugin`. If you double-click this file on your machine, Stream Deck will install the plugin.
+In the Release folder, you can find the file `com.simple-edge.numberdisplay.sdPlugin`. If you double-click this file on your machine, Stream Deck will install the plugin.
 
 
 # Source code
